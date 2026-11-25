@@ -5,6 +5,9 @@ tags: [binary-star, white-dwarf, accretion-disk, hubble, chandra, alma, mira-b, 
 
 # The Mira AB Symbiotic Binary System (`Mira A` + `Mira B / VZ Ceti`)
 
+![NASA/ESA Hubble Space Telescope Image Separating Mira A and Mira B (opo9726a)](assets/opo9726a-hubble-mira-ab.jpg)
+*Figure 1: NASA/ESA Hubble Space Telescope Faint Object Camera (FOC) ultraviolet/optical observations separating red giant Mira A (right) and accreting white dwarf companion Mira B / VZ Ceti (left), revealing a gaseous mass-transfer plume extending from Mira A toward Mira B (`opo9726a`). Credit: NASA, ESA, and M. Karovska (Harvard-Smithsonian CfA) — see [[PROVENANCE]].*
+
 Omicron Ceti is not an isolated red giant—it is a wide, interacting **symbiotic binary system (`Mira AB`)** whose two stars are separated by **~0.5–0.6 arcseconds** on the sky (roughly **70–200 AU**, or ~2× Pluto's distance from the Sun) and orbit a common center of mass roughly once every **~498 years**.
 
 ---
@@ -47,4 +50,4 @@ Long-baseline **ALMA** observations resolved both Mira A's asymmetric radio phot
 
 ---
 
-* **Related Nodes:** [[omicron-ceti-mechanics]] | [[chandra-xray-data]] | [[galex-uv-telemetry]]
+* **Related Nodes:** [[omicron-ceti-mechanics]] | [[chandra-xray-data]] | [[galex-uv-telemetry]] | [[PROVENANCE]]

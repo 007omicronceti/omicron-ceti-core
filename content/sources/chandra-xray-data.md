@@ -5,6 +5,9 @@ tags: [chandra, hubble, x-ray, ultraviolet, nasa, telemetry, mira-ab, accretion]
 
 # Chandra X-Ray & Hubble UV Observatory Telemetry: `Mira AB`
 
+![NASA Chandra X-Ray Observatory Image of Mira AB (CXC 05-06)](../assets/chandra-2005-mira-xray.jpg)
+*Figure 1: NASA Chandra X-Ray Observatory ACIS-S observation (`CXC Release 05-06`, Apr 28, 2005) resolving X-ray emission from both Mira A (right, soft X-ray flare) and Mira B (left, accretion disk boundary layer). Credit: NASA/CXC/SAO/M. Karovska et al. — see [[PROVENANCE]].*
+
 NASA's **Chandra X-Ray Observatory** (`CXC Release 05-06`, April 28, 2005) produced the first resolved X-ray image of an interacting red giant / white dwarf binary—capturing an unexpected soft X-ray flare on cool giant **Mira A** alongside steady accretion-disk X-rays around **Mira B**.
 
 ---
@@ -27,4 +30,4 @@ NASA's **Chandra X-Ray Observatory** (`CXC Release 05-06`, April 28, 2005) produ
 
 ---
 
-* **Related Nodes:** [[mira-binary-system]] | [[galex-uv-telemetry]] | [[omicron-ceti-mechanics]]
+* **Related Nodes:** [[mira-binary-system]] | [[galex-uv-telemetry]] | [[omicron-ceti-mechanics]] | [[PROVENANCE]]

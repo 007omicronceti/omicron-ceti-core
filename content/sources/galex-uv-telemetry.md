@@ -5,6 +5,9 @@ tags: [galex, nasa, jpl, telemetry, bow-shock, omicron-ceti, ultraviolet, nature
 
 # GALEX Far-UV Telemetry: Mira's 13-Light-Year Wake (`PIA09958`)
 
+![NASA/JPL GALEX Far-UV Mosaic of Mira's 13-Light-Year Tail (PIA09958)](../assets/pia09958-galex-mira-tail.jpg)
+*Figure 1: NASA Galaxy Evolution Explorer (GALEX) far-ultraviolet mosaic (`PIA09958`) showing Omicron Ceti (Mira, right) plowing through the local interstellar medium at ~130 km/s and leaving a 2-degree (~13-light-year) turbulent bow-shock wake. Credit: NASA/JPL-Caltech/C. Martin (Caltech)/M. Seibert (OCIW) — see [[PROVENANCE]].*
+
 In **August 2007**, NASA's **Galaxy Evolution Explorer (GALEX)** ultraviolet space telescope stunned astrophysicists by revealing a **2-degree-long (~13-light-year)** comet-like far-ultraviolet (FUV: 1344–1786 Å) tail streaming behind **Omicron Ceti (Mira)**. Completely invisible in optical and infrared surveys, the wake preserves a **~30,000-year fossil record** of Mira's mass-loss history as the binary plows supersonically through the local Interstellar Medium (ISM).
 
 ---
@@ -47,4 +50,4 @@ In **August 2007**, NASA's **Galaxy Evolution Explorer (GALEX)** ultraviolet spa
   <iframe src="https://www.youtube.com/embed/gcpvPw_NlMM" title="This Star Has a Tail 13 Light-Years Long" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" allowfullscreen></iframe>
 </div>
 
-* **Related Nodes:** [[omicron-ceti-mechanics]] | [[mira-binary-system]] | [[chandra-xray-data]]
+* **Related Nodes:** [[omicron-ceti-mechanics]] | [[mira-binary-system]] | [[chandra-xray-data]] | [[PROVENANCE]]

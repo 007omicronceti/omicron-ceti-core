@@ -61,7 +61,11 @@ In traditional Chinese uranography (star mapping), Omicron Ceti lies immediately
 * **Observation:** Lutheran pastor and astronomer **David Fabricius** observed an uncataloged 3rd-magnitude star in Cetus while measuring the position of Mercury/Jupiter. By August 21 it brightened to **2nd magnitude**, then steadily faded until it vanished from naked-eye view in October 1596. Assuming it was a *stella nova* (like Tycho's 1572 supernova), Fabricius was astonished when he spotted the exact same star shining brightly again on **February 15, 1609**.
 * **Contemporary Primary Print Record:** Fabricius corresponded directly with **Johannes Kepler**, who published Fabricius's 1596 Cetus sighting in *Ad Vitellionem Paralipomena* (Frankfurt, 1604) and *De Stella Nova in Pede Serpentarii* (Prague, 1606). See [Kepler Archival Context (PDF)](https://astronomianova.org/pdf/Kepler.pdf).
 
-### B. Johannes Bayer (1603) — *Uranometria* (Augsburg)
+### B. Johannes Bayer (1603) — *Uranometria* (Augsburg), fol. 34v (*Cetus*)
+
+![Johannes Bayer Uranometria 1603 Cetus Plate](../assets/bayer-1603-uranometria-cetus-fol34v.jpg)
+*Figure 1: Copperplate engraving of Cetus from Johannes Bayer's Uranometria (Augsburg, 1603, fol. 34v), where Omicron (ο) Ceti is plotted on the whale's neck at 4th magnitude. Digitized original courtesy of the Linda Hall Library / Wikimedia Commons — see [[PROVENANCE]].*
+
 * **Primary Print Source:** *Uranometria, omnium asterismorum continens schemata, nova methodo delineata, aereis laminis expressa* (Augsburg, 1603), **fol. 34 verso (*Cetus*)**.
 * **Significance:** Bayer observed the star when it happened to be shining near **4th magnitude**, engraved it on his copperplate chart of Cetus, and assigned it the Greek letter **`ο` (Omicron Ceti)**—without realizing it was the same transient object Fabricius had seen vanish seven years earlier.
 * **Verified Digitized Plate (1603 Original, Linda Hall Library):**
@@ -80,4 +84,4 @@ In traditional Chinese uranography (star mapping), Omicron Ceti lies immediately
 
 ---
 
-* **Next:** [[mira-discovery-timeline]] | [[omicron-ceti-mechanics]] | [[galex-uv-telemetry]]
+* **Next:** [[mira-discovery-timeline]] | [[omicron-ceti-mechanics]] | [[galex-uv-telemetry]] | [[PROVENANCE]]
